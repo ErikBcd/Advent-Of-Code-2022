@@ -1,0 +1,14 @@
+[
+    {
+      "lang": "c++",
+      "path": "day01/day1.cpp"
+    },
+    {
+      "lang": "c",
+      "path": "day03/day2.c"
+    },
+    {
+      "lang": "c",
+      "path": "day03/day3.c"
+    }
+  ]
