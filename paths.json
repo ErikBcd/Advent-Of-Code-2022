@@ -10,5 +10,9 @@
   {
     "lang": "c",
     "path": "day03/day3.c"
+  },
+  {
+    "lang": "clike",
+    "path": "day04/day4.cpp"
   }
 ]
