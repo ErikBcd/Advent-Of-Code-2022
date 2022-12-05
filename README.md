@@ -6,6 +6,10 @@ day1 -> c++
 
 day2 -> c
 
-day3 -> ???
+day3 -> c
+
+day4 -> c++
+
+day5 -> python ( :( )
 
 ..
