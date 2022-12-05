@@ -14,5 +14,9 @@
   {
     "lang": "clike",
     "path": "day04/day4.cpp"
+  },
+  {
+    "lang": "python",
+    "path": "day05/day5.py"
   }
 ]
