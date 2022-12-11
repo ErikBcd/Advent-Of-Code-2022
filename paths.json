@@ -26,5 +26,9 @@
   {
     "lang": "clike",
     "path": "day07/day7.cpp"
+  },
+  {
+    "lang": "clike",
+    "path": "day08/day8.cpp"
   }
 ]
